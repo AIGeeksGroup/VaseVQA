@@ -7,7 +7,7 @@ This is the repository for the paper:
 >
 > \*Equal contribution. †Project lead. \**Corresponding author.
 > 
-> ### [Paper]() | [VaseVL Demo Website]() | [VaseVQ Dataset]() | [Papers With Code]() | [HF Paper]()
+> ### [Paper]() | [Demo Website]() | [VaseVQ Dataset]() | [Papers With Code]() | [HF Paper]()
 <center class ='img'>
 <img title="VaseVL Pipeline" src="https://github.com/AIGeeksGroup/PathoHR/blob/main/PathoHR.png" width="100%">
 </center>
