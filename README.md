@@ -25,5 +25,34 @@ We present VaseVL, a pioneering Multi-Modal Large Language Model (MLLM) agent fo
 <img title="VaseVL Pipeline" src="https://github.com/AIGeeksGroup/PathoHR/blob/main/PathoHR.png" width="100%">
 </center>
 
-## Demo UI Setup
-You can set up your own conda virtual environment by running the commands below.
+
+## 🚀 Deploy VaseVL Demo UI Locally
+
+To get the full experience of the VaseVL UI, you need to deploy it locally by following the steps below:
+
+1. **Clone the VaseVL repository to your local machine.**
+   ```bash
+   git clone https://github.com/AIGeeksGroup/VaseVL.git
+   ```
+
+2. **Navigate to the `ui` directory which contains the front-end source code.**
+   ```bash
+   cd ui
+   ```
+
+3. **Install all required Node.js dependencies.**
+   ```bash
+   npm install
+   ```
+
+4. **Build the UI project for production.**
+   ```bash
+   npm run build
+   ```
+
+5. **Start the local server to launch the VaseVL Demo UI.**
+   ```bash
+   npm run start
+   ```
+
+Once the server starts, you can access the VaseVL Demo UI in your browser at `http://localhost:1717/projects/1743242682314/playground` by default.
