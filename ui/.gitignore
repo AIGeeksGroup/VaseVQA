@@ -1,0 +1,15 @@
+node_modules
+build
+.vscode
+website-local.json
+ai-local.json
+.next
+.DS_Store
+tsconfig.tsbuildinfo
+mock-login-callback.ts
+.env.local
+/src/test/crawler
+/src/test/mock
+/local-db
+/test
+/dist

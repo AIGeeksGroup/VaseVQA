@@ -1,0 +1,14 @@
+node_modules
+.next
+.git
+.github
+README.md
+README.zh-CN.md
+.gitignore
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+/test
+/local-db
+/video
