@@ -61,3 +61,9 @@ Once the server starts, you can access the VaseVL Demo UI in your browser at `ht
 <img title="VaseVL Pipeline" src="https://github.com/AIGeeksGroup/VaseVL/blob/main/images/website_example.png" width="100%">
 </center>
 
+
+## License
+
+Our data is under NCND license. no commerical use. Do not modify our data for another dataset.
+
+![license](https://github.com/user-attachments/assets/978cf963-0455-44fa-8027-c859af934753)
