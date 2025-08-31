@@ -7,7 +7,7 @@ This is the repository for the paper:
 >
 > \*Equal contribution. †Project lead. \**Corresponding author.
 > 
-> ### [Paper]() | [VaseVQA Dataset]() | [Checkpoints]() | [Papers With Code]() | [HF Paper]()
+> ### [Paper]() | [VaseVQA Dataset]() | [Checkpoints]() | [HF Paper]()
 https://github.com/user-attachments/assets/8f770bfb-d7f9-4e5d-9c10-54ec15f37163
 
 
