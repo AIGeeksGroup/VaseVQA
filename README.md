@@ -1,4 +1,4 @@
-# <img src="https://github.com/AIGeeksGroup/VaseVL/blob/main/images/vasevl_logo-cropped.svg" alt="logo" width="30"/> VaseVQA
+# <img src="https://github.com/AIGeeksGroup/VaseVL/blob/main/images/vasevl_logo-cropped.svg" alt="logo" width="30"/> VaseVQA: Multimodal Agent and Benchmark for Ancient Greek Pottery
 
 This is the repository for the paper:
 > **VaseVQA: Multimodal Agent and Benchmark for Ancient Greek Pottery**
