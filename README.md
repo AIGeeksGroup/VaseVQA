@@ -1,7 +1,7 @@
-# <img src="https://github.com/AIGeeksGroup/VaseVL/blob/main/images/vasevl_logo-cropped.svg" alt="logo" width="30"/> VaseVL
+# <img src="https://github.com/AIGeeksGroup/VaseVL/blob/main/images/vasevl_logo-cropped.svg" alt="logo" width="30"/> VaseVQA
 
 This is the repository for the paper:
-> **VaseVL: Multimodal Agent and Benchmark for Ancient Greek Pottery**
+> **VaseVQA: Multimodal Agent and Benchmark for Ancient Greek Pottery**
 > 
 > Jinchao Ge\*, Biao Wu\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io)\*†, Shiya Huang, Judith Bishop, Gillian Shepherd, [Ling Chen](https://profiles.uts.edu.au/Ling.Chen), [Meng Fang](https://mengfn.github.io/), [Yang Zhao](https://yangyangkiki.github.io/)\**
 >
