@@ -3,7 +3,7 @@
 This is the repository for the paper:
 > **VaseVQA: Multimodal Agent and Benchmark for Ancient Greek Pottery**
 > 
-> Jinchao Ge\*, Tengfei Cheng\*, Biao Wu\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io)\*†, Shiya Huang, Judith Bishop, Gillian Shepherd, [Ling Chen](https://profiles.uts.edu.au/Ling.Chen), [Meng Fang](https://mengfn.github.io/), [Yang Zhao](https://yangyangkiki.github.io/)\**
+> Jinchao Ge\*, Tengfei Cheng\*, Biao Wu\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io)\*†, Shiya Huang, Judith Bishop, Gillian Shepherd, [Meng Fang](https://mengfn.github.io/), [Ling Chen](https://profiles.uts.edu.au/Ling.Chen), [Yang Zhao](https://yangyangkiki.github.io/)\**
 >
 > \*Equal contribution. †Project lead. \**Corresponding author.
 > 
