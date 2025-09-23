@@ -16,6 +16,12 @@ https://github.com/user-attachments/assets/8f770bfb-d7f9-4e5d-9c10-54ec15f37163
 
 If you use any content of this repo for your work, please cite the following our paper:
 ```
+@article{ge2025vasevqa,
+  title={VaseVQA: Multimodal Agent and Benchmark for Ancient Greek Pottery},
+  author={Ge, Jinchao and Cheng, Tengfei and Wu, Biao and Zhang, Zeyu and Huang, Shiya and Bishop, Judith and Shepherd, Gillian and Fang, Meng and Chen, Ling and Zhao, Yang},
+  journal={arXiv preprint arXiv:2509.17191},
+  year={2025}
+}
 
 ```
 
