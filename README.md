@@ -7,7 +7,7 @@ This is the repository for the paper:
 >
 > \*Equal contribution. †Project lead. \**Corresponding author.
 > 
-> ### [Paper]() | [VaseVQA Dataset]() | [VaseVL Model]() | [HF Paper]()
+> ### [Paper](https://arxiv.org/abs/2509.17191) | [VaseVQA Dataset](https://huggingface.co/datasets/AIGeeksGroup/VaseVQA) | [VaseVL Model](https://huggingface.co/AIGeeksGroup/VaseVL) | [HF Paper](https://huggingface.co/papers/2509.17191)
 https://github.com/user-attachments/assets/8f770bfb-d7f9-4e5d-9c10-54ec15f37163
 
 
@@ -25,7 +25,7 @@ If you use any content of this repo for your work, please cite the following our
 ```
 
 ## Introduction
-We present VaseVL, a pioneering Multi-Modal Large Language Model (MLLM) agent for ancient Greek pottery, capable of understanding and analyzing visual and textual data to enhance cultural heritage preservation. To further support the research community, we introduce VaseVQA, a comprehensive Q&A benchmark for evaluating the reasoning and interpretative capabilities of MLLMs on ancient artifacts. The data has 31,773 multi-view vase images. From these, we select 11,693 as single-view images. The benchmark contains vision-language (VL) tasks of visual question answering. VaseVL achieves state-of-the-art performance in stylistic classification and historical attribution, providing critical tools for authentication, forgery detection, and digital archiving. Our final fine-tuning process for the 7B checkpoint uses 9,354 available vase data and finishes in 3~4 hours. Beyond academic contributions, VaseVL fosters global heritage conservation, mitigating cultural erosion and promoting public engagement with ancient Greek artistry.
+Analyzing cultural-heritage artifacts remains challenging for MLLMs: general models lack domain expertise, and SFT often overfits superficial patterns, yielding brittle reasoning for authentication and historical attribution. This raises the question of how to equip MLLMs with robust, expert-level reasoning for ancient Greek pottery. We present VaseVL, an SFT-then-RL system that turns evaluation into supervision: we construct a taxonomy of question types, probe the SFT model to localize type-specific performance gaps, and optimize with type-conditioned, compositionality-oriented rewards targeting those gaps. We also release VaseVQA, a comprehensive benchmark of 31,773 images designed to probe deep understanding. Experiments show state-of-the-art results on style classification and historical attribution with marked gains in compositional robustness over SFT-only baselines, validating diagnosis-guided, taxonomy-conditioned reward engineering and providing a reusable resource for future research.
 <center class ='img'>
 <img title="VaseVL Pipeline" src="https://github.com/AIGeeksGroup/VaseVL/blob/main/images/vasevqa_example.png" width="100%">
 </center>
