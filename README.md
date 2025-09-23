@@ -22,7 +22,6 @@ If you use any content of this repo for your work, please cite the following our
   journal={arXiv preprint arXiv:2509.17191},
   year={2025}
 }
-
 ```
 
 ## Introduction
