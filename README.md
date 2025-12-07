@@ -81,8 +81,10 @@ python download_dataset.py
 Download released checkpoints:
 
 ```bash
+mkdir Models
 cd Models
-hf download AIGeeksGroup/VaseVL --repo-type model --local-dir VaseVL
+hf download Qwen/Qwen2.5-VL-3B-Instruct --local-dir Qwen2.5-VL-3B-Instruct
+# hf download AIGeeksGroup/VaseVL --repo-type model --local-dir VaseVL
 cd ..
 ```
 
