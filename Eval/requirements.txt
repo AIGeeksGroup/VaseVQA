@@ -1,0 +1,20 @@
+
+git+https://github.com/huggingface/transformers 
+accelerate
+qwen-vl-utils==0.0.8
+# torch
+# use torch 2.5.1 due to MPS issue
+# https://github.com/huggingface/transformers/issues/36413
+torch==2.5.1  
+torchvision==0.20.1
+
+# for evaluation
+pandas
+tqdm
+requests
+validators
+# MPS not needed flash_attn
+# flash_attn
+metrics
+pycocoevalcap
+editdistance
