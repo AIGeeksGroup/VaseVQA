@@ -6,6 +6,8 @@ This is the repository for the paper:
 > Jinchao Ge\*, Tengfei Cheng\*, Biao Wu\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io)\*†, Shiya Huang, Judith Bishop, Gillian Shepherd, [Meng Fang](https://mengfn.github.io/), [Ling Chen](https://profiles.uts.edu.au/Ling.Chen), [Yang Zhao](https://yangyangkiki.github.io/)\**
 >
 > \*Equal contribution. †Project lead. \**Corresponding author.
+>
+> ***EACL 2026***
 > 
 > ### [Paper](https://arxiv.org/abs/2509.17191) | [VaseVQA Dataset](https://huggingface.co/datasets/AIGeeksGroup/VaseVQA) | [VaseVL Model](https://huggingface.co/AIGeeksGroup/VaseVL) | [HF Paper](https://huggingface.co/papers/2509.17191)
 https://github.com/user-attachments/assets/8f770bfb-d7f9-4e5d-9c10-54ec15f37163
