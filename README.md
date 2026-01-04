@@ -7,7 +7,7 @@ This is the repository for the paper:
 >
 > \*Equal contribution. †Project lead. \**Corresponding author.
 >
-> ***EACL 2026***
+> ***EACL 2026 Findings***
 > 
 > ### [Paper](https://arxiv.org/abs/2509.17191) | [VaseVQA Dataset](https://huggingface.co/datasets/AIGeeksGroup/VaseVQA) | [VaseVL Model](https://huggingface.co/AIGeeksGroup/VaseVL) | [HF Paper](https://huggingface.co/papers/2509.17191)
 https://github.com/user-attachments/assets/8f770bfb-d7f9-4e5d-9c10-54ec15f37163
